@@ -6,12 +6,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erian.alirio@gmail.com)
 
 
-
-## 👋
-
-- Graduando na Universidade Federal de Viçosa
-- Participante no grupo de pesquisa [NuPESSC-UFV](http://nupessc.caf.ufv.br/)
-
 ## :bar_chart:
 
 <p align= "center">
