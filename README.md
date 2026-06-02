@@ -1,30 +1,13 @@
 ## Erian Alves
 
+Software engineer. I like building small, focused tools.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erian-alves/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erian.alirio@gmail.com)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erian-alves/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erian.alirio@gmail.com)
+### A few things I've built
 
-
-## :bar_chart:
-
-<p align= "center">
-  <img height= "140" src="https://github-readme-stats.vercel.app/api?username=Erian-A&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" />
-</p>
-
-<!--
-  <img height= "140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erian-A&layout=compact&theme=cobalt" />
-
-**Erian-A/Erian-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[pokemon-type-analysis](https://github.com/Erian-A/pokemon-type-analysis)** — Pokémon GO PVP companion. Build a 6-Pokémon team, see how well it covers the type chart. Next.js 16, React 19, TypeScript.
+- **[new-years-scraping](https://github.com/Erian-A/new-years-scraping)** — TypeScript + Puppeteer scraper that pulls New Year's Eve party listings from Sympla into a CSV.
+- **[qr-receipt-scanner](https://github.com/Erian-A/qr-receipt-scanner)** & **[supabase-receipt-functions](https://github.com/Erian-A/supabase-receipt-functions)** — receipt-scanning experiment (client + Supabase edge functions).
+- **[Sistema-Distribuido-Flask](https://github.com/Erian-A/Sistema-Distribuido-Flask)** — distributed voucher-trading system (Flask + Kivy). University coursework.
